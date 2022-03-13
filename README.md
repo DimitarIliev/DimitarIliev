@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DimitarIliev
-- 👀 I’m interested in Microservices Architecture and the Cloud
+- 👀 I’m interested in Microservices Architecture and the Cloud. Mostly focused on using Microsoft technologies. Currently working with .NET Core and Azure.
 - 📫 Reach me through my email address dimitar.iliev96@hotmail.com
 
 <!---
