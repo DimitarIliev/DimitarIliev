@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dimitar Iliev, B. Sc. Computer Science and Engineering, 4 X Microsoft Certified ☁️ and Scrum Master Certified.
+- 👋 Hi, I’m Dimitar Iliev, Azure Solutions Architect, B. Sc. Computer Science and Engineering, 6 x Microsoft Certified ☁️ and Scrum Master Certified.
 - 👀 I’m interested in Microservices Architecture and the Cloud. Mostly focused on using Microsoft technologies.
 - 📫 Reach me through my email address dimitar.iliev96@hotmail.com
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/dimitar-iliev96/
